@@ -1,2 +1,2 @@
 # mobile-first
-site de aprendisagem
+site de aprendizagem
